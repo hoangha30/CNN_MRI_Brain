@@ -27,6 +27,5 @@ In this project, I developed a **Convolutional Neural Network (CNN)** to detect 
 ### Tools and Libraries:
 - **Python**, **Pytorch**, **cv2**, **Seaborn** **Pandas** **NumPy**, and **Matplotlib**.
 
----
 
-This description highlights the key technical aspects of the project while providing an overview of the approach and results. You can customize the accuracy and other specifics based on the actual outcome of the project.
+
